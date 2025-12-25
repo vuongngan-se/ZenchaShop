@@ -34,3 +34,15 @@
 ## Tài khoản Admin
 - Để truy cập trang quản trị, hãy vào: `http://localhost/ZenchaShop/login.php`
 - Sử dụng tài khoản có sẵn trong database hoặc đăng ký một tài khoản mới và thay đổi `user_type` thành `admin` trong bảng `users` của database.
+
+- <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/38bba856-8a89-4797-b6ee-3b9e00c0d853" />
+<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/2992f88b-622d-4592-a170-f00a0680e1db" />
+<img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/165d3118-c32c-441f-8d71-a978c3df6272" />
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/97aa3f89-bbc0-4802-8b2f-e573f6c19606" />
+<img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/89379d33-7784-45e1-a8b3-1369c57863c1" />
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/1c19b2bd-3b4b-4b72-8087-6f8221922213" />
+<img width="460" height="592" alt="image" src="https://github.com/user-attachments/assets/1cb6f4d4-a654-46bd-82d5-22b73f6a9ac9" />
+
+
+
+
